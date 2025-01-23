@@ -1,0 +1,10 @@
+Order1	Name1	Order2	Name2	1->2%		Dummy	Color1	Color2
+1	Remote	1	Remote	0.81		1	Remote	Remote
+1	Remote	2	Hybrid	0.18		1	Remote	Hybrid
+1	Remote	3	Onsite	0.02		1	Remote	Onsite
+2	Hybrid	1	Remote	0.28		1	Hybrid	Remote
+2	Hybrid	2	Hybrid	0.69		1	Hybrid	Hybrid
+2	Hybrid	3	Onsite	0.02		1	Hybrid	Onsite
+3	Onsite	1	Remote	0.27		1	Onsite	Remote
+3	Onsite	2	Hybrid	0.36		1	Onsite	Hybrid
+3	Onsite	3	Onsite	0.36		1	Onsite	Onsite
